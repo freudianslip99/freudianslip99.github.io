@@ -1,1 +1,2 @@
-# Welcome to my personal programming page. A collection of past and present programs will appear on this site.  
+# Carpenter-Labs
+Portfolio of programming labs including web design and GUI based projects.  
