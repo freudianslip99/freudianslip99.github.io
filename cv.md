@@ -4,4 +4,4 @@ title: cv
 permalink: /cv/
 ---
 
-https://uptowork.com/mycv/alancarpenter
+<a href="https://uptowork.com/mycv/alancarpenter">Alan Carpenter CV</a>
